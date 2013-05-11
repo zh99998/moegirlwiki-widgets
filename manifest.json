@@ -5,7 +5,6 @@
 
     "widget": {
         "iframe": "http://zh99998.github.io/moegirlwiki-widgets/",
-        //也可以有别的方式，例如直接加载个脚本什么的
         "height": 250
     }
 }
