@@ -1,0 +1,2 @@
+moegirlwiki-widgets
+===================
