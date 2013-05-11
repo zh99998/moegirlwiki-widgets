@@ -6,5 +6,8 @@
     "widget": {
         "iframe": "http://zh99998.github.io/moegirlwiki-widgets/",
         "height": 250
-    }
+    },
+
+    "version": "0.1",
+    "description": "萌娘百科最近修改过的条目"
 }
