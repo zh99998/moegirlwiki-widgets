@@ -15,7 +15,7 @@
         text: item.title,
         "class": 'title',
         target: '_blank'
-      })).appendTo('.moegirlwiki-widgets'));
+      })).appendTo('.moegirlwiki-widgets .items'));
     }
     return _results;
   });

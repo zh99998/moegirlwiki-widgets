@@ -1,11 +1,20 @@
-.moegirlwiki-widgets-wrapper {background-color:#fff;}
-.moegirlwiki-widgets-wrapper {font-size:12px;}
-.moegirlwiki-widgets {margin:0px;padding:0 3px;background-color:#fff;background-image:url(http://oss.aliyuncs.com/cdn-moe123/static/img/lgray.png);}
-.moegirlwiki-widgets .item{margin:0 0 7px 0;padding:0 0 7px 0;border-bottom:1px dashed #CCCCCC;}
-.moegirlwiki-widgets .item .title{margin:1px 0 1px 3px;padding:1px 2px 1px 3px;color:#666;font-weight:bold;}
-.moegirlwiki-widgets .item a:link.title{color:#666;text-decoration:none;}
-.moegirlwiki-widgets .item a:visited.title {color:#666;text-decoration:none;}
-.moegirlwiki-widgets .item a:hover.title {color:#666;text-decoration:underline;}
-.moegirlwiki-widgets .item a:active.title {color:#666;text-decoration:none;}
+.moegirlwiki-widgets {font-size:12px;}
 
-.moegirlwiki-widgets li {list-style:none}
+.moegirlwiki-widgets .header{margin:0px;padding:5px 5px 5px 5px;color:#fff;background-color:#3366ff;background-image:url(http://);}
+.moegirlwiki-widgets .footer{margin:0px;padding:5px 5px 5px 5px;color:#333;background-color:#fff;background-image:url(http://);}
+.moegirlwiki-widgets .header .title{margin:0;padding:0;font-weight:bold;}
+.moegirlwiki-widgets .header a:link{color:#fff;text-decoration:none;}
+.moegirlwiki-widgets .header a:visited{color:#fff;text-decoration:none;}
+.moegirlwiki-widgets .header a:hover{color:#fff;text-decoration:underline;}
+.moegirlwiki-widgets .header a:active{color:#fff;text-decoration:none;}
+
+.moegirlwiki-widgets .items {margin:0px;padding:0 3px;background-color:#fff;background-image:url(http://oss.aliyuncs.com/cdn-moe123/static/img/lgray.png);}
+.moegirlwiki-widgets .items .item{margin:0 0 7px 0;padding:0 0 7px 0;border-bottom:1px dashed #CCCCCC;}
+.moegirlwiki-widgets .items .item .title{margin:1px 0 1px 3px;padding:1px 2px 1px 3px;color:#666;font-weight:bold;}
+.moegirlwiki-widgets .items .item a:link.title{color:#666;text-decoration:none;}
+.moegirlwiki-widgets .items .item a:visited.title {color:#666;text-decoration:none;}
+.moegirlwiki-widgets .items .item a:hover.title {color:#666;text-decoration:underline;}
+.moegirlwiki-widgets .items .item a:active.title {color:#666;text-decoration:none;}
+
+.moegirlwiki-widgets .items {padding-top: 6px;}
+.moegirlwiki-widgets .items li {list-style:none}
