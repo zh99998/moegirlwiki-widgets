@@ -13,7 +13,8 @@
       }).append($('<a />', {
         href: "http://zh.moegirl.org/" + item.title,
         text: item.title,
-        "class": 'title'
+        "class": 'title',
+        target: '_blank'
       })).appendTo('.moegirlwiki-widgets'));
     }
     return _results;
