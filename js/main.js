@@ -7,7 +7,6 @@
     _results = [];
     for (_i = 0, _len = _ref.length; _i < _len; _i++) {
       item = _ref[_i];
-      console.log(item);
       _results.push($('<li/>', {
         "class": 'item'
       }).append($('<a />', {
